@@ -7,6 +7,14 @@
 
 - 🌱 I’m currently learning **MERN**
 
+- 👨‍💻 All of my projects are available at [anshul-010.github.io](anshul-010.github.io)
+
+- 💬 Ask me about **react.js**
+
+- 📫 How to reach me **kushwahasg4450@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yu35MlL4VffKBXLzROaJBSEFVRSmsxjz/view?usp=sharing](https://drive.google.com/file/d/1yu35MlL4VffKBXLzROaJBSEFVRSmsxjz/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/anshul-010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/anshul-010" height="30" width="40" /></a>
