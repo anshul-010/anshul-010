@@ -4,6 +4,21 @@
 <h1 align="center">Hi 👋, I'm Anshul Kushwah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/anshul-kushwah-0245021b8/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="kushwahasg4450@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  
+  <a href="https://wa.me/7906192050" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshul-010&label=Profile%20views&color=0e75b6&style=flat" alt="anshul-010" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshul-010" alt="anshul-010" /></a> </p>
