@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/anshul-kushwah-0245021b8/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="kushwahasg4450@gmail.com" target="_blank">
+  <a href="mailto:kushwahasg4450@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   
